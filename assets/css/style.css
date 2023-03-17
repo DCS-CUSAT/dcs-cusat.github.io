@@ -1,0 +1,16 @@
+body{
+  background-color: #2d2a29 !important;
+  color: white !important;
+}
+
+.gradient-text {
+  background: linear-gradient(to right, #ff9a9e, #fad0c4, #f6d365, #a4fcce, #64e9fc) !important;
+  -webkit-background-clip: text !important; /* Safari/Chrome */
+  -moz-background-clip: text !important; /* Firefox */
+  background-clip: text !important;
+  color: transparent !important;
+}
+
+.card {
+  box-shadow: 0 0.25rem 0.5rem rgba(0, 0, 0, 0.15);
+}
